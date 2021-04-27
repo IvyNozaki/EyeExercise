@@ -135,7 +135,7 @@ body {
   top: 425px;
   left: 450px;
   position: fixed;
-  background: url("happy.svg");
+  background: url("assets/happy.svg");
   background-size: 900px 900px;
   background-position: center;
 }
@@ -147,7 +147,7 @@ body {
   top: 425px;
   left: 450px;
   position: fixed;
-  background: url("uncomfortable.svg");
+  background: url("assets/uncomfortable.svg");
   background-size: 900px 900px;
   background-position: center;
 }
